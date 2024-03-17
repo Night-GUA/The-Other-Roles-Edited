@@ -58,13 +58,13 @@
 | 2024.3.5s| v1.0.4| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.4)
 | 2023.11.28s| v1.0.3| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.3)
 | 2023.11.28s| v1.0.2| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.2)
-| 2023.11.28s| v1.0.1| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.1.1)
 
 <details>
   <summary>点我查看旧版本</summary>
   
 | Among Us - 版本| 模组版本 | 链接 |
 |----------|-------------|-----------------|
+| 2023.11.28s| v1.0.1| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.1.1)
 | 2023.11.28s| v1.0.0| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.1)
 | 2023.11.28s| v4.5.1| [下载](https://github.com/TheOtherRolesAU/TheOtherRoles/releases/download/v4.5.1/TheOtherRoles.zip)
 | 2023.11.28s| v4.5.0| [下载](https://github.com/TheOtherRolesAU/TheOtherRoles/releases/download/v4.5.0/TheOtherRoles.zip)
